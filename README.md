@@ -84,6 +84,11 @@ npm -v
 
 ## 🚀 Getting Started (Local Setup)
 
+## 1) Frontend Links 
+```bash
+https://task-management-frontend-roan-zeta.vercel.app
+```
+
 ### 1) Clone repository
 
 ```bash
