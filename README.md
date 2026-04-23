@@ -87,8 +87,8 @@ npm -v
 ### 1) Clone repository
 
 ```bash
-git clone <YOUR_FRONTEND_REPO_URL>
-cd <YOUR_FRONTEND_FOLDER>
+git clone https://github.com/Zaheer872004/task_management_frontend.git
+cd task_management_frontend
 ```
 
 ### 2) Install dependencies
